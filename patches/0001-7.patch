@@ -1,0 +1,24 @@
+From e459a208ac3d4d646b5d80d08570acc60dac800a Mon Sep 17 00:00:00 2001
+From: Avokado-an <56486448+Avokado-an@users.noreply.github.com>
+Date: Tue, 29 Dec 2020 22:02:16 +0300
+Subject: [PATCH] 7
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 8540beb..c99cd86 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1111111111
+-111111111
++1111111111 edited 1
++111111111 edited 1
+ 11111111
+ 1111111
+ 111111
+-- 
+2.26.2.windows.1
+
